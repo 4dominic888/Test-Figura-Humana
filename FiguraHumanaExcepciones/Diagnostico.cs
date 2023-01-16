@@ -4,6 +4,7 @@ namespace FiguraHumanaClases
     public class Diagnostico
     {
         DatosIniciales DatosGenerales { get; set; }
+        List<Observacion> Observaciones { get; set; }
     }
     public class DatosIniciales
     {
@@ -39,6 +40,20 @@ namespace FiguraHumanaClases
                    $"Fecha de nacimiento: {FechaNacimiento.ToShortDateString()}\n" +
                    $"Fecha de evaluación: {FechaEvaluacion.ToShortDateString()}\n" +
                    $"Evaluador: {evaluador}";
+
+        }
+    }
+    public class Observacion
+    {
+        public string titulo { get; set; }
+        public string contenido { get; set; }
+        public Observacion(string titulo, string contenido)
+        {
+            this.titulo = titulo;
+            this.contenido = contenido;
+        }
+        public Observacion()
+        {
 
         }
     }
