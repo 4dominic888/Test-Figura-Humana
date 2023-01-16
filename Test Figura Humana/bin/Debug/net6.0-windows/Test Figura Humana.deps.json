@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Test Figura Humana/1.0.0": {
+        "dependencies": {
+          "FiguraHumanaClases": "1.0.0"
+        },
+        "runtime": {
+          "Test Figura Humana.dll": {}
+        }
+      },
+      "FiguraHumanaClases/1.0.0": {
+        "runtime": {
+          "FiguraHumanaClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test Figura Humana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FiguraHumanaClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

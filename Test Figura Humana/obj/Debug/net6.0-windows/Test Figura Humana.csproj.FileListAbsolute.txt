@@ -1,0 +1,21 @@
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\bin\Debug\net6.0-windows\Test Figura Humana.exe
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\bin\Debug\net6.0-windows\Test Figura Humana.deps.json
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\bin\Debug\net6.0-windows\Test Figura Humana.runtimeconfig.json
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\bin\Debug\net6.0-windows\Test Figura Humana.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\bin\Debug\net6.0-windows\Test Figura Humana.pdb
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.csproj.AssemblyReference.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test_Figura_Humana.Principal.resources
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.csproj.GenerateResource.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.AssemblyInfoInputs.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.AssemblyInfo.cs
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.csproj.CoreCompileInputs.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\refint\Test Figura Humana.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.pdb
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.genruntimeconfig.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\ref\Test Figura Humana.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\bin\Debug\net6.0-windows\FiguraHumanaClases.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\bin\Debug\net6.0-windows\FiguraHumanaClases.pdb
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test Figura Humana.csproj.CopyComplete
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Test Figura Humana\Test Figura Humana\obj\Debug\net6.0-windows\Test_Figura_Humana.VerObservacion.resources
