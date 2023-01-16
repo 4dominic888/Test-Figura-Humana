@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Figura Humana", "Test Figura Humana\Test Figura Humana.csproj", "{0F8147A7-02EC-4452-BD9A-68FF35110C41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguraHumanaClases", "FiguraHumanaExcepciones\FiguraHumanaClases.csproj", "{FE371E50-FB6D-421F-BBCA-33855A6B7A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F8147A7-02EC-4452-BD9A-68FF35110C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F8147A7-02EC-4452-BD9A-68FF35110C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F8147A7-02EC-4452-BD9A-68FF35110C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE371E50-FB6D-421F-BBCA-33855A6B7A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE371E50-FB6D-421F-BBCA-33855A6B7A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE371E50-FB6D-421F-BBCA-33855A6B7A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE371E50-FB6D-421F-BBCA-33855A6B7A45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
